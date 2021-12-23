@@ -1,0 +1,26 @@
+{
+  "name": "graphql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": "https://github.com/luccadumas/graphql.git",
+  "keywords": [],
+  "author": "Lucca Dumas <lucca.ribeiro0@hotmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon -e js,gql",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  },
+  "dependencies": {
+    "apollo-datasource-rest": "^3.4.0",
+    "apollo-server": "^3.5.0",
+    "graphql": "^15.5.3",
+    "graphql-tools": "^8.2.0",
+    "jsonwebtoken": "^8.5.1",
+    "knex": "^0.95.15",
+    "pg": "^8.7.1"
+  }
+}

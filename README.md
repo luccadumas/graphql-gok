@@ -9,7 +9,7 @@
   <h3 align="center">Graphql API Github</h3>
 
   <p align="center">
-    Test API Github with Graphql - GraphQL
+    Test API Github with Graphql
     <br />
     <a href="https://graphql.org/graphql-js/"><strong>Explore documentation »</strong></a>
     <br />
